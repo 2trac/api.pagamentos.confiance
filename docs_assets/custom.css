@@ -1,0 +1,53 @@
+.content-menu ul li:hover,
+.content-menu ul li.active {
+	background-color: #0073ec;
+}
+.content-menu ul li:hover a,
+.content-menu ul li.active a {
+	color: #ffffff;
+}
+.content-menu ul li a {
+	padding: 0.5em 13.25% 0em;
+	color: #034c8f;
+	letter-spacing: 0.025em;
+	line-height: 1.2;
+	text-transform: capitalize;
+}
+.text-justify {
+	text-align: justify;
+}
+.text-uppercase {
+	text-transform: uppercase;
+}
+.content h4 {
+	color: #00a8e3;
+	margin-top: 0;
+	text-transform: none;
+	font-size: 14px;
+	margin-bottom: 0.2em;
+	text-transform: uppercase;
+}
+.content-logo span {
+	display: inline-block;
+	margin-left: 10px;
+	vertical-align: middle;
+	color: #034c8f;
+	font-size: 1.1em;
+	font-family: "Roboto Condensed", sans-serif;
+}
+.content-menu {
+	margin: 1em auto 0em;
+	padding: 0 0 10px;
+	font-family: "Roboto Condensed", sans-serif;
+}
+.cut {
+	word-wrap: break-word;
+}
+.space-section {
+	padding-top: 60px;
+}
+.div-block {
+	position: relative;
+	display: block;
+	box-sizing: border-box;
+}
